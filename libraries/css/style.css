@@ -1,0 +1,13 @@
+ 
+ 
+.navbar a{
+	color: black;
+
+}
+.nav li a:hover{
+	background: orange;
+	 
+}
+ .navbar=default{
+ 	background: green;
+ }
